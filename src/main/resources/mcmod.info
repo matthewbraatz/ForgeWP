@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mattmod",
+  "name": "Matt Mod for Minecraft",
+  "description": "Matt mod for forge.",
+  "version": "0.1",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PopeyeDad"],
+  "credits": "Popeye and Hunter",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

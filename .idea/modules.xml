@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ForgeWP.iml" filepath="$PROJECT_DIR$/.idea/modules/ForgeWP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ForgeWP_api.iml" filepath="$PROJECT_DIR$/.idea/modules/ForgeWP_api.iml" group="ForgeWP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ForgeWP_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ForgeWP_main.iml" group="ForgeWP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ForgeWP_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ForgeWP_test.iml" group="ForgeWP" />
+    </modules>
+  </component>
+</project>
